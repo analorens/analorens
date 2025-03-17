@@ -1,11 +1,13 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/analorens/analorens/blob/main/imgs/header img.png" />
  &nbsp;&nbsp;&nbsp;
 <p align="center">Eu 💙 resolver desafios usando tecnologia. <br><br>
+
 -----
+
 <div>
   <details>
     <summary>
-     <summary><img height="20" alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/animatedcatpink.giff"/> Sobre mim:</summary>
+     <summary><img height="20" alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/animatedcatpink.gif"/> Sobre mim:</summary>
     </summary>
   </details>
 </div>
@@ -32,7 +34,7 @@
   </tr>
 </table>
 -----
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=analorens&color=darkblue"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=analorens&color=blueviolet"/>
 -----
 
 ## Contacts:
