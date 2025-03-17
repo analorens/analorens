@@ -4,9 +4,16 @@
 
 -----
 
+<div align="center" style="margin-bottom:100px">
+  <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=analorens&show_icons=true&theme=tokyonight&layout=compact" />
+</div>
+
+-----
+
+
 <div>
-  <details>
-    <summary>
+   <details>
+   </summary>
      <summary><img height="20" alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/animatedcatpink.gif"/> Sobre mim:</summary>
     </summary>
   </details>
@@ -23,6 +30,7 @@
           <li>Cinemáticamente falando, gosto de "Piratas do Caribe", "Percy Jackson" e "HunterxHunter".</li>
           <li>Adoro ajudar as pessoas.</li>
           <li>📬 Para me encontrar, este é meu <a href="mailto:anacslorens1201@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:analorensdev@gmail.com" target="_blank">e-mail</a> profissional.</li>
+         <li>Participei do International Women's Day, organizado pelo Women Techmakers, um programa da GDG Belo Horizonte</li>
         </ul>
       </div>
     </td>
@@ -33,9 +41,13 @@
     </td>
   </tr>
 </table>
+
 -----
+
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=analorens&color=blueviolet"/>
+
 -----
+
 
 ## Contacts:
 
@@ -45,6 +57,10 @@
 <a href = "mailto:analorensdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/analorens/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div> 
+
 -----
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001f3d&height=120&section=footer"/>
+
 
 
