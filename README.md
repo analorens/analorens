@@ -1,12 +1,11 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/analorens/analorens/blob/main/imgs/header img.png" />
  &nbsp;&nbsp;&nbsp;
 <p align="center">Eu 💙 resolver desafios usando tecnologia. <br><br>
-
+-----
 <div>
   <details>
     <summary>
-      <img height="20" alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/animatedcatpink.gif"/>
-      Sobre mim:
+     <summary><img height="20" alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/animatedcatpink.giff"/> Sobre mim:</summary>
     </summary>
   </details>
 </div>
@@ -32,4 +31,18 @@
     </td>
   </tr>
 </table>
+-----
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=analorens&color=darkblue"/>
+-----
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/flaviojrdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:analorensdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/analorens/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+</div> 
+-----
+
 
