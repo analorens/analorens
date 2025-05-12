@@ -1,5 +1,9 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/analorens/analorens/blob/main/imgs/header img.png" />
- &nbsp;&nbsp;&nbsp;
+<h1 align=center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3200&pause=800&color=5FABEE&background=03031400&center=true&size=24&vCenter=true&width=870&lines=Hello+World!;I'm+Ana Lorens" alt="Presentation text" />
+  </a>
+</h1>
+
 <p align="center">Eu 💙 resolver desafios usando tecnologia. <br><br>
 
 -----
