@@ -33,7 +33,7 @@
           <li>Desde pequena me interesso pela tecnologia e tudo que envolve esse amplo e diverso mundo.</li>
           <li>Meus hobbies são leitura 📚, jogos 🎮, cozinhar 🍪 e assistir a podcasts de true crime 🧐.</li>
           <li>Cinemáticamente falando, gosto de "Piratas do Caribe", "Percy Jackson" e "HunterxHunter".</li>
-          <li>Adoro ajudar as pessoas.</li>
+          <li>Adoro ajudar as pessoas!💙</li>
           <li>📬 Para me encontrar, este é meu <a href="mailto:anacslorens1201@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:analorensdev@gmail.com" target="_blank">e-mail</a> profissional.</li>
          <li>Participei do International Women's Day, organizado pelo Women Techmakers, um programa da GDG Belo Horizonte</li>
         </ul>
