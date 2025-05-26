@@ -41,10 +41,8 @@
     </td>
     <td style="width: 40%; vertical-align: top;">
       <div>
-  <img src="https://github.com/analorens/analorens/blob/main/imgs/halloween.gif?raw=true" width="300px" height="225px"/>
+<img src="https://github.com/analorens/analorens/blob/main/imgs/halloween.gif?raw=true" width="300px" height="225px"/>
 
-      </div>
-    </td>
   </tr>
 </table>
 
