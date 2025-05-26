@@ -47,6 +47,25 @@
 </table>
 
 -----
+<img src="imgs/skills.gif" height="20" alt="skills"/> Linguagens e ferramentas:
+
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+  <img src="imgs/c.png" width="32" height="32" alt="C" />
+</a>
+&nbsp;
+<a href="https://www.python.org/" target="_blank">
+  <img src="imgs/python.png" width="32" height="32" alt="Python" />
+</a>
+&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="imgs/vs.png" width="32" height="32" alt="VS Code" />
+</a>
+&nbsp;
+<a href="https://www.notion.so/" target="_blank">
+  <img src="imgs/notion.png" width="32" height="32" alt="Notion" />
+</a>
+
+-----
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=analorens&color=blueviolet"/>
 
