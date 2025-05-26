@@ -41,7 +41,7 @@
     </td>
     <td style="width: 40%; vertical-align: top;">
       <div>
-        <img alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/gif%20developer%20girl.gif?raw=true" width="300px" height="225px"/>
+        <img alt="GIF" src="https://github.com/analorens/analorens/blob/main/imgs/halloween%20gif.mp4?raw=true" width="300px" height="225px"/>
       </div>
     </td>
   </tr>
