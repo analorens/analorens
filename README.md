@@ -41,7 +41,7 @@
     </td>
     <td style="width: 40%; vertical-align: top;">
       <div>
-<img src="https://github.com/analorens/analorens/blob/main/imgs/computer.gif?raw=true" width="300px" height="225px"/>
+<img src="https://github.com/analorens/analorens/blob/main/imgs/lorens.png?raw=true" width="300px" height="225px"/>
 
   </tr>
 </table>
