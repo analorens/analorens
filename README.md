@@ -52,6 +52,9 @@
   <img src="imgs/c.png" width="32" height="32" alt="C" />
 </a>
 &nbsp;
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="31" height="31" alt="cplusplus"/>
+</a>         
 <a href="https://www.python.org/" target="_blank">
   <img src="imgs/python.png" width="32" height="32" alt="Python" />
 </a>
@@ -67,6 +70,11 @@
 <a href="https://www.anaconda.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="31" height="31" alt="anaconda"/>
 </a>
+&nbsp;
+<a href="https://www.latex-project.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="33" height="33" alt="latex"/>
+</a>
+
 
 -----
 
