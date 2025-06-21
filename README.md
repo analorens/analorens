@@ -10,7 +10,7 @@
 -----
 
 <div align="center" style="margin-bottom:100px">
-  <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=analorens&show_icons=true&theme=tokyonight&layout=compact" />
+<img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analorens&layout=compact&langs_count=5&theme=holi&hide_border=true" />
 </div>
 
 -----
