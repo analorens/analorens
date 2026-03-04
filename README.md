@@ -9,9 +9,9 @@
 
 -----
 
-<div align="center" style="margin-bottom:100px">
-<img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analorens&layout=compact&langs_count=5&theme=holi&hide_border=true" />
-</div>
+<div align="center">
+      <img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=analorens&show_icons=true&theme=tokyonight&layout=compact" width="400px" />
+    </div>
 
 -----
 
@@ -130,10 +130,19 @@
 </div> 
 
 -----
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
+</picture>
+
+-----
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5FABEE&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 
------
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
 
