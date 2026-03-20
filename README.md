@@ -153,7 +153,17 @@
 </picture>
 
 -----
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/analorens/analorens/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/analorens/analorens/output/github-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/analorens/analorens/output/github-snake.svg">
+</picture>
 
+----->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5FABEE&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 
 
