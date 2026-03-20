@@ -143,6 +143,42 @@
 </div> 
 
 -----
+
+<div>
+<details>
+<summary>🎧 Meu Spotify</summary>
+<!---
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=umk3dfbj21o1b6a6as5iddt50&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+--->
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px"
+src="https://spotify-github-profile.kittinanx.com/api/view?uid=umk3dfbj21o1b6a6as5iddt50"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=umk3dfbj21o1b6a6as5iddt50"/>
+</td>
+<td>
+<a href="https://www.last.fm/pt/user/analorens" target="_blank">
+<img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=analorens&width=400"/>
+</a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
+-----
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/analorens/analorens/output/pacman-contribution-graph-dark.svg">
