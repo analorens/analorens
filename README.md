@@ -178,7 +178,6 @@ src="https://spotify-github-profile.kittinanx.com/api/view?uid=umk3dfbj21o1b6a6a
 </table>
 </div>
 
------
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/analorens/analorens/output/pacman-contribution-graph-dark.svg">
