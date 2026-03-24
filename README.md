@@ -36,6 +36,9 @@
 
 <li>Além da parte técnica, também gosto muito de contribuir com a comunidade acadêmica. Atualmente sou coordenadora do Programa de Apadrinhamento do curso, uma iniciativa voltada para acolher e orientar estudantes que estão começando a graduação.</li>
 
+<li>👩‍💻 Oficinas de Git e GitHub
+Organizo e ministro oficinas de Git e GitHub, abordando desde os conceitos até a aplicação prática no dia a dia. Durante as oficinas, trabalho com comandos essenciais de git, criação de repositórios, versionamento de projetos e colaboração, sempre usando uma abordagem clara e acessível tanto para quem já tem certo conhecimento na área quanto para quem está ingressando no mundo da tecnologia!.</li>
+<li>👩‍🏫Para saber quando será a próxima oficina entre em <a href="https://wa.me/5531971501617">contato</a> comigo!</li>
 <li>Meus hobbies são leitura 📚, jogos 🎮, cozinhar 🍪 e assistir a podcasts de true crime 🧐.</li>
 
 <li>Cinemáticamente falando, gosto de "Piratas do Caribe", "Percy Jackson" e "HunterxHunter".</li>
