@@ -178,14 +178,18 @@ src="https://spotify-github-profile.kittinanx.com/api/view?uid=umk3dfbj21o1b6a6a
 </table>
 </div>
 
+-----
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/analorens/analorens/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/analorens/analorens/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/analorens/analorens/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/flaviojuniordev/flaviojuniordev/output/pacman-contribution-graph.svg">
 </picture>
+
+-----  
 
 -----
 <!--
